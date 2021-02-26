@@ -1,1 +1,1 @@
-# sd-js-sprint3-oefenopdrachten
+# sd-js-sprint2-oefenopdracht

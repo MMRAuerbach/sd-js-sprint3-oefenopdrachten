@@ -1,5 +1,3 @@
-// main.js - het Javascript bestand voor Sprint 2
-
+// main.js - het Javascript bestand voor Sprint 3
 //Er gebeurt niets met JS dus dit bestand is leeg.
-
 
